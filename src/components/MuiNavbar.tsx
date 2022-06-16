@@ -19,7 +19,7 @@ export const MuiNavbar = () => {
         <AppBar position="static">
             <Toolbar>
                 <IconButton size="large" edge="start" color="inherit" aria-label="logo">
-                    <KeyboardArrowDownIcon />
+                    <CatchingPokemonIcon />
                 </IconButton>
                 <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
                     POKEMONAPP
