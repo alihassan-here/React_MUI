@@ -17,7 +17,8 @@ import './App.css';
 // import { MuiLinks } from './components/MuiLinks';
 // import { MuiBreadcrumbs } from './components/MuiBreadcrumbs';
 // import { MuiDrawer } from './components/MuiDrawer';
-import { MuiSpeedDial } from './components/MuiSpeedDial';
+// import { MuiSpeedDial } from './components/MuiSpeedDial';
+import { MuiBottomNavigation } from './components/MuiBottomNavigation';
 
 function App() {
   return (
@@ -39,7 +40,8 @@ function App() {
       {/* <MuiBreadcrumbs /> */}
       {/* <MuiLinks /> */}
       {/* <MuiDrawer /> */}
-      <MuiSpeedDial />
+      {/* <MuiSpeedDial /> */}
+      <MuiBottomNavigation />
     </div>
   );
 }
